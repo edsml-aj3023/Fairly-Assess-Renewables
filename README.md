@@ -1,6 +1,6 @@
 # Optimization of the UK’s Future Energy Mix Under Diverse Policy Goals
 
-![Generation Mix for Extreme Scenarios](images/newplot.png)
+![Generation Mix for Extreme Scenarios](code/images/newplot.png)
 
 A policy-weighted, multi-zone PyPSA model of the UK grid that designs net-zero pathways by accounting for system level and non-economic costs — comparing tidal’s predictability and wind’s intermittency beyond LCOE.
 
